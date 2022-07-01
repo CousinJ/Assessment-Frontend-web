@@ -1,0 +1,60 @@
+body {
+  background: #ddd;
+  margin: 1rem;
+  padding: 1rem;
+  max-width: 500px;
+  margin: 2rem auto;
+  font-family: "Open Sans", sans-serif;
+}
+
+nav {
+	border-bottom: 2px solid orange;
+}
+
+ol {
+	padding-left: 0;
+}
+
+.crumb {
+	margin-right: 2em;
+	display: inline;
+}
+
+a {
+	color: orange;
+}
+
+a:visited {
+	color: crimson;
+}
+
+
+input {
+	display: block;
+}
+
+img {
+	width: 400px;
+	height: 300px;
+}
+
+.buttons {
+	color:black;
+	background-color: yellow;
+	height: 10%;
+	width: 30%;
+	box-shadow: 2px 2px 5px 1px;
+	
+}
+.buttons2 {
+	color: white;
+	background-color: crimson;
+	height: 5%;
+	width: 60%;
+	
+	
+}
+hr {
+	background-color: crimson;
+	height: 1px;
+}
